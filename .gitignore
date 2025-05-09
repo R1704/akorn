@@ -1,1 +1,4 @@
 *.pyc
+checkpoints
+diag_images
+visualizations
